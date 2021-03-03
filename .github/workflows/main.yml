@@ -33,5 +33,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: build
-          publish_branch: gh-pages
-          cname: roblox-ts.com
+          publish_branch: deploy
+          cname: www.mobidev.gq
