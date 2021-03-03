@@ -4,14 +4,14 @@
         <title>Mobidev Blog</title>
         <link>https://mobiuscraftflip.github.io/blog</link>
         <description>Mobidev Blog</description>
-        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 18:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Relasing BanService]]></title>
             <link>https://mobiuscraftflip.github.io/blog/Relasing BanService</link>
             <guid>Relasing BanService</guid>
-            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 03 Mar 2021 18:49:39 GMT</pubDate>
             <description><![CDATA[Today I am releasing BanService v0.1.0 you can get it Here.]]></description>
         </item>
     </channel>
