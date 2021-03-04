@@ -13,7 +13,7 @@ module.exports = {
       title: 'MobiDev',
       logo: {
         alt: 'MobiDev Lgo',
-        src: 'img/favicon.ico',
+        src: 'img/logo.svg',
       },
       items: [
         {to: 'blog', label: 'Blog', position: 'left'},
