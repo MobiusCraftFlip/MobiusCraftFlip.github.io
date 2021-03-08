@@ -3,7 +3,7 @@ module.exports = {
   projectName: "mobiuscraftflip.github.io",
   url: "https://mobiuscraftflip.github.io",
   baseUrl: "/",
-  title: 'Mobidev',
+  title: 'MobiDev',
   tagline: 'Development',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
