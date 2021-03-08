@@ -7,15 +7,15 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
-  // {
-  //   title: 'Beginner',
-  //   imageUrl: 'img/undraw_docusaurus_mountain.svg',
-  //   description: (
-  //     <>
-  //       I'm just learning right now. If you find what you see profissant, please don't hezitate to ask me.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Role Play Framework',
+    imageUrl: 'img/RPFramework.svg',
+    description: (
+      <>
+        A game ready collection of Knit services for Role Playing Games. (Coming soon)
+      </>
+    ),
+  },
   // {
   //   title: 'Focus on What Matters',
   //   imageUrl: 'img/undraw_docusaurus_tree.svg',
